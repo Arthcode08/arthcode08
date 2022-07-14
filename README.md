@@ -4,11 +4,15 @@
 
 	
 <div align="center">
+ <br>
+ <!--Informações do perfil--> <!--Linguagem de programação que utiliza-->
   <a href="https://github.com/Arthcode08">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Arthcode08&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthcode08&layout=compact&langs_count=6&theme=chartreuse-dark"/>
-</div>
-
+  <img height="" src="https://github-readme-stats.vercel.app/api?username=MaxHenriique&custom_title=Arthur%20Ferrari%20&text_color=C9D1D9&title_color=00F0FF&show_icons=true&icon_color=495059&bg_color=121221&include_all_commits=true&count_private=true&locale=pt-br&border_color=242424&line_height=33.9"/>
+  </a>
+  <a href="https://github.com/Arthcode08">
+   <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthcode08&custom_title=Linguagens%20mais%20utilizadas&text_color=C9D1D9&title_color=00F0FF&bg_color=121221&langs_count=5&border_color=242424&card_width=300"/>
+  </a>  
+ </div>
 <h3> Linguagens <h3>
  <img align="center" alt="Símbolo HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Símbolo CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
