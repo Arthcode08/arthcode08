@@ -1,5 +1,6 @@
-<img  align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=5030&color=8E28FF&lines=Seja+Bem-vinde+ao++meu+perfil"> 
-
+<p align="center">
+<img  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=5030&color=8E28FF&lines=Seja+Bem-vinde+ao++meu+perfil"> 
+</p>
 
 
 	
@@ -11,6 +12,7 @@
   </a>
   <a href="https://github.com/Arthcode08">
    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthcode08&custom_title=Linguagens%20mais%20utilizadas&text_color=C9D1D9&title_color=00F0FF&bg_color=121221&langs_count=5&border_color=242424&card_width=300"/>
+   <br>
   </a>  
  </div>
 <h3> Linguagens <h3>
@@ -22,10 +24,10 @@
  <img align="center" alt="Símbolo Java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Símbolo MySql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
      
- 
+ <br>
 
 <div>
-  <h3>CONTATOS:</h3>
+  <h3>Contatos:</h3>
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <!-- https://shields.io/ -->
   <a href = "mailto:arthurferrari167@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
