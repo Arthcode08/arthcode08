@@ -13,6 +13,8 @@
   <a href="https://github.com/Arthcode08">
    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthcode08&custom_title=Linguagens%20mais%20utilizadas&text_color=C9D1D9&title_color=00F0FF&bg_color=121221&langs_count=5&border_color=242424&card_width=300"/>
    <br>
+   <br>
+	  
   </a>  
  </div>
 <h3> Linguagens <h3>
@@ -25,7 +27,8 @@
   <img align="center" alt="Símbolo MySql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
      
  <br>
-
+ <br>
+	
 <div>
   <h3>Contatos:</h3>
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
